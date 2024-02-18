@@ -44,7 +44,7 @@ Issues: Some issues Which I faced: While creating React app, installation, error
 
   I deleted many times all codes, full folders, more things when I faced problems that tiems, I transfrred my project many times with Javascript+ SWC then transferred to Typescript +SWC. Many times!
 
-  This is my first website Experience: 
+ This is my first website Experience: 
 
 
 Thank you for taking the time to explore the Nordstrom Clone. This project has been a journey of discovery and learning, and I hope it inspires you in your own exploration of web development. Whether you are a fellow developer, a learner, or someone curious about the world of technology, may this project encourage you to dive into the exciting realm of web design and development. Happy coding!
