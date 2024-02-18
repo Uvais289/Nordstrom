@@ -1,6 +1,6 @@
  Title: "Nordstrom Website"
 
- Welcome to the Nordstrom Clone, a project where I replicated the design and functionality of the Nordstrom website. This project serves as a learning exercise and showcases my ability to recreate a complex and feature-rich website.
+Welcome to the Nordstrom Clone, a project where I replicated the design and functionality of the Nordstrom website. This project serves as a learning exercise and showcases my ability to recreate a complex and feature-rich website.
 
 Introduction: - The Nordstrom Clone project is a result of my exploration into web development, aiming to understand the intricacies of front-end design, user experience, and the underlying technologies that power modern e-commerce platforms. By cloning Nordstrom, a popular online retail destination, I gained valuable insights into responsive design, layout structuring, and the integration of various components.
 
