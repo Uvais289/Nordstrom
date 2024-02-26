@@ -42,7 +42,7 @@ Most important Things: "Design"
 
 Issues: Some issues Which I faced: While creating React app, installation, errors, many errors I faced which are highly note solve easily, My minds got sucked when I show many erros facing, I contact with my IA for solve this, after understanding some topics and                learn some new things from youtube then understande what I making mistakes then I stoped it. And create Again with taking some guidelines from the best platforms.
 
-  I deleted many times all codes, full folders, more things when I faced problems that tiems, I transfrred my project many times with Javascript+ SWC then transferred to Typescript +SWC. Many times!
+I deleted many times all codes, full folders, more things when I faced problems that tiems, I transfrred my project many times with Javascript+ SWC then transferred to Typescript +SWC. Many times!
 
  This is my first website Experience: 
 
