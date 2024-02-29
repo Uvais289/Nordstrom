@@ -1,4 +1,4 @@
- Title: "Nordstrom Website"
+  "Nordstrom Website"
 
 Welcome to the Nordstrom Clone, a project where I replicated the design and functionality of the Nordstrom website. This project serves as a learning exercise and showcases my ability to recreate a complex and feature-rich website.
 
