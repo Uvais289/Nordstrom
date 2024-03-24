@@ -10,7 +10,7 @@ Features: -
   ->Navigation: Navigate through different sections, categories, and product details, mirroring the intuitive navigation of the original Nordstrom site.
 
 Getting Started
-Prerequisites
+Prerequisites 
 To run the Nordstrom Clone locally, you need the following:
 
 Web browser (e.g., Chrome, Firefox, Safari)
