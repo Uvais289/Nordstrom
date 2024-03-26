@@ -12,7 +12,7 @@ Features: -
 Getting Started
 Prerequisites 
 To run the Nordstrom Clone locally, you need the following:
-
+ 
 Web browser (e.g., Chrome, Firefox, Safari)
 Code editor (e.g., Visual Studio Code)
 
