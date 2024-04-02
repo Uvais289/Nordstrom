@@ -20,7 +20,7 @@ Installation
 Clone the repository:
 https://github.com/Uvais289/Nordstrom-Website/tree/master/Nordstrom
 
-Usage
+Usage 
 Explore the Nordstrom Clone, browse products, and experience the replicated features of the Nordstrom website.
 
 Main:- Navbar, I confused many times, what things i put on the navbar and what design what tupe of logo, design also. I done more than 10+ Navbar styles and thing. This is the most important things which showing highly on the web pages!
